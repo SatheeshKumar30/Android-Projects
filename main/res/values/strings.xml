@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cryptography</string>
+    <string name="cryptography">Cryptography</string>
+    <string name="binary_not_decrypt">invalid</string>
+    <string name="rest">Rest</string>
+    <string name="copy">Copy</string>
+    <string name="result_of_text">Result of Text</string>
+    <string name="decryption">Decryption</string>
+    <string name="encryption">Encryption</string>
+    <string name="enter_the_key">Enter the Key</string>
+    <string name="enter_the_text">Enter the Text</string>
+    <string name="enter_the_text_only">Enter the Text Only</string>
+    <string name="advanced_encryption_standard">Advanced Encryption Standard</string>
+    <string name="crytography_appilcation">Crytography Appilcation</string>
+    <string name="aes">AES</string>
+    <string name="vigenere_cipher">Vigenere Cipher</string>
+    <string name="caesar_cipher">Caesar Cipher</string>
+    <string name="binary">Binary</string>
+    <string name="enter_the_letters_only_for_key">Enter the Letters only for key</string>
+
+</resources>
